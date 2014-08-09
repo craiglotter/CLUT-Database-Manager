@@ -1,0 +1,6 @@
+#29/10/2008 09:01:33 AM - Precount Function (): System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.NormalizePathFast(String path, Boolean fullCheck)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.DirectoryInfo..ctor(String path)
+   at Selective_Folder_Copier.Main_Screen.run_precount(String path) in Q:\Work Projects\In Progress\Selective Folder Copier - 27 October 2008\Source Code\Selective Folder Copier\Main_Screen.vb:line 352
+

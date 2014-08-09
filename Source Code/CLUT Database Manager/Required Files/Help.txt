@@ -1,0 +1,10 @@
+Commerce IT currently runs a stat keeping exercise in their labs that logs all login data to a database housed on their webserver. CLUT Database Manager is an application that runs on said server and is responsible for catching all month changes as that is when it needs to duplicate the existing Lab_Usage_Tracker.mdb database and archive its contents for the month that has just passed. Included in this operation is to remove all last month's entries out of this month's database. The reason for this is that the original CLUT (Commerce Lab Usage Tracker) system was rapidly prototyped using a standard MS Access database, meaning that its rather severe limitations quickly becomes a liability.
+
+To use the application, simply select the Lab_Usage_Tracker.mdb file to be monitored.
+
+While the system works on a scheduled scan (you can changed the schedule time in the config.sav file), you can force the database check by clicking on the Run Database Check button. If the check is currently running, you can cancel it by clicking on the Cancel button.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 05/11/2008 --

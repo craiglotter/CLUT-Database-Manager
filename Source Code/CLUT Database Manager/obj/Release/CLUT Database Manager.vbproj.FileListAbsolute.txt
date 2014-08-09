@@ -1,0 +1,26 @@
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\bin\Release\CLUT Database Manager.exe
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\bin\Release\CLUT Database Manager.pdb
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\bin\Release\CLUT Database Manager.xml
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\ResolveAssemblyReference.cache
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.AboutBox1.resources
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.Display_Message.resources
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.HelpBox1.resources
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.Main_Screen.resources
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.Resources.resources
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.vbproj.GenerateResource.Cache
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.exe
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.xml
+H:\Work Projects\In Progress\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.pdb
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.xml
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.pdb
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\bin\Release\CLUT Database Manager.exe
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\bin\Release\CLUT Database Manager.pdb
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\bin\Release\CLUT Database Manager.xml
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\ResolveAssemblyReference.cache
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.AboutBox1.resources
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.Display_Message.resources
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.HelpBox1.resources
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.Main_Screen.resources
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT_Database_Manager.Resources.resources
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.vbproj.GenerateResource.Cache
+Q:\Work Projects\Updated\CLUT Database Manager - 04 November 2008\Source Code\CLUT Database Manager\obj\Release\CLUT Database Manager.exe
